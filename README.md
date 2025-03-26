@@ -11,7 +11,7 @@ Com o ChefDelivery, você tem a melhor experiência de delivery na palma da mão
 	  •	  Interface moderna e fluida com SwiftUI
 	  •	  Escolha entre uma variedade de restaurantes e pratos
 	  •	  Acompanhe seus pedidos em tempo real
-    •   Pagamento fácil, rápido e seguro
+          •       Pagamento fácil, rápido e seguro
 
 
 
